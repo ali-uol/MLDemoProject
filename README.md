@@ -7,13 +7,13 @@ Follow these steps to run the project on Windows. The application uses an existi
 Open **Command Prompt (CMD)** and clone the repository:
 
 ```cmd
-git clone "https://github.com/ali-uol/MLDemo.git"
+git clone "https://github.com/ali-uol/MLDemoProject.git"
 cd MLDemo
 ```
 
 If Git is not installed, use the ZIP option instead:
 
-1. Open the repository: https://github.com/ali-uol/MLDemo
+1. Open the repository: https://github.com/ali-uol/MLDemoProject
 2. Select **Code > Download ZIP**.
 3. Right-click the downloaded ZIP and select **Extract All**.
 4. Open the extracted folder containing `backend`, `frontend`, and `README.md`.
