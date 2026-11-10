@@ -1,0 +1,65 @@
+{
+  "accuracy": 0.9666666666666667,
+  "test_samples": 30,
+  "precision_macro": 0.9696969696969697,
+  "recall_macro": 0.9666666666666667,
+  "f1_macro": 0.9665831244778612,
+  "precision_weighted": 0.9696969696969696,
+  "recall_weighted": 0.9666666666666667,
+  "f1_weighted": 0.9665831244778613,
+  "confusion_matrix": [
+    [
+      10,
+      0,
+      0
+    ],
+    [
+      0,
+      9,
+      1
+    ],
+    [
+      0,
+      0,
+      10
+    ]
+  ],
+  "classification_report": {
+    "Iris Setosa": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 10.0
+    },
+    "Iris Versicolor": {
+      "precision": 1.0,
+      "recall": 0.9,
+      "f1-score": 0.9473684210526315,
+      "support": 10.0
+    },
+    "Iris Virginica": {
+      "precision": 0.9090909090909091,
+      "recall": 1.0,
+      "f1-score": 0.9523809523809523,
+      "support": 10.0
+    },
+    "accuracy": 0.9666666666666667,
+    "macro avg": {
+      "precision": 0.9696969696969697,
+      "recall": 0.9666666666666667,
+      "f1-score": 0.9665831244778612,
+      "support": 30.0
+    },
+    "weighted avg": {
+      "precision": 0.9696969696969696,
+      "recall": 0.9666666666666667,
+      "f1-score": 0.9665831244778613,
+      "support": 30.0
+    }
+  },
+  "class_labels": [
+    "Iris Setosa",
+    "Iris Versicolor",
+    "Iris Virginica"
+  ]
+}
